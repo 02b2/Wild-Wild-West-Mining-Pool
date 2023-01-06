@@ -1,0 +1,113 @@
+html {
+  background-color: #393f4d;
+}
+
+
+figcaption {
+  color: #652f9a;
+  background-color: #a4c639;
+}
+.flex-container1 {
+
+    text-align: center;
+}
+
+.flex-container {
+    margin: 0 auto;
+    padding: 25px;
+  }
+
+.type1 {
+  text-decoration-color: #6e32a0;
+}
+
+p {
+  text-align: center;
+
+}
+.droid-section,
+.apple-section,
+.windows-section,
+.pi-section,
+.linux-section,
+.pool-section,
+.dero-section,
+.community-pool-section {
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: baseline;
+    padding: -15px;
+    text-align: center;
+  }
+.flex-item-droid {
+  margin-top: 2px;
+  margin-right: 25px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  height: 100px;
+  width: 100px;
+  }
+
+.flex-item-dero,
+.flex-item-apple,
+.flex-item-windows,         
+.flex-item-linux {
+    padding: 0px;
+    margin: 2px;
+    height: 150px;
+    width: 150px;
+    line-height: center;
+    text-align: center;
+    color: black;
+    align-self: center;
+    border: 15px;
+    border-color: red;
+    border-width: 29px;
+  }
+  .flex-item-community-pool {
+    height: 250px;
+    width: 450px;
+    align-self: center;
+  }
+  .flex-item-pi {
+    height: 225px;
+    width: 225px;
+  }
+  #parent {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .flex-item {
+    padding: 15px;
+    width: 100px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    line-height: center;
+    color: white;
+  }
+
+.codebox {
+    margin: auto;
+    border: 1px solid 
+    padding: 10px;
+    font-size: 14pt;
+    display: inline-block;
+    background-color: #6a3b91;
+}
+
+.btn {
+   background-color: black;
+   color: #a4c639;
+   border-radius: 9px;
+   margin-top: 10px;
+   border-color: #6e32a0;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+.foot {
+  alighn-text: center;
+}

@@ -1,0 +1,22 @@
+.flex-container {
+    text-align: center;
+}
+
+
+.frame1 {
+    padding: 0px;
+    border-color: brown;
+    margin: auto;
+    padding: 0px;
+    margin: 2px;
+    height: 100px;
+    width: 100px;
+    line-height: center;
+    text-align: center;
+    color: black;
+    align-self: center;
+    border: 15px;
+    border-color: red;
+    display: flex;
+    align-items: center;
+}

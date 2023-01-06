@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+
+  <!--- basic page needs
+  ==================================================================================================-->
+  
+  <meta charset="utf-8" />
+  <title> Status: ONLINE</title>
+  <meta name="description" content="Dero cryptocurrency mining pool for CPU mining via any device" />
+  <meta author="ElManifestorr" content="Technical Documentation" />
+  <meta name="robots" content="noindex, nofollow" />
+  
+  <!-- mobile specific nmetas 
+  ======================================================================-->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- CSS 
+  ===================================================================================-->
+  <link rel="stylesheet" type="text/css" href="styles.css">
+
+  <!--- favicons
+  ================================================================================================-->
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/32x32.png"/>
+  <link rel="shortcut icon" type="image/png" sizes="16x16" href="/img/16x16.png"/>
+  <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="img/180x180.png"/>
+  <link rel="manifest" href="site.webmanifest"/>
+
+  
+  
+  <title>
+    Pool: ONLINE
+  </title>
+  <div class="flex-container1">
+    <header class="flex-container1">
+      <h1>
+        <b><u>The Wild-Wild West Mining Pool!</u></b>
+      </h1>
+      <p>This website is under construction, however getting setup is as easy as clicking the icon of your chosen operating system.</p>
+    </div>
+    </header>
+</head>
+
+<body>
+  <div class="flex-container">
+    <section class="dero_section">
+        <a class="flex-container" href="https://dero.io"><img class="flex-item-dero" src="img/dero.svg"></a><p class="section.dero-section">Click on the $DERO icon above for help creating your own wallet. A WALLET HIGHLY RECOMMENDED because this enables you to gather your earnings in a trusted place that ONLY YOU have access to. Mining to an exchange address is 100% doable as well. I won't teach how to because I personally would never recommend that to anyone EVER. If you do insist on going that route that's on you & you can find the information online. Trusting a 3rd party is something you just simply don't have to do in crypto, therefore why subject yourself to such a risk?/p>
+    </section>
+    <section class="droid-section">
+      <a class="flex-container" href="/setup/android_setup.html"><img class="flex-item-droid" src="img/android.svg"></a><p class="section.droid-section">Click on the android link for easy setup instructions. When I say easy I mean one line of code that's written for you.</p>
+    </section>
+    <section class="apple-section">
+        <a class="flex-container" href="/setup/apple_setup.html"><img class="flex-item-apple" src="img/apple.svg"></a><p class="section.apple-section">Click on the android link for easy setup instructions. When I say easy I mean one line of code that's written for you./p>
+    </section>
+    <section class="windows-section">
+        <a class="flex-container" href="/setup/windows_setup.html"><img class="flex-item-windows" src="img/windows.svg"></a><p class="section.windows-section">Click on the Windows logo for easy setup instructions. When I say easy I mean one line of code that's written for you.</p>
+    </section>
+    <section class="pi-section">
+        <a class="flex-container" href="/setup/pi_setup.html"><img class="flex-item-pi" src="img/pi.svg"></a><p class="section.pi-section">Click on the Raspberry Pi link for easy setup instructions. These are in infancy and I plan to improve and give you far more options/information however for now these setups work fine.</p>
+    </section>
+    <section class="linux-section">
+        <a class="flex-container" href="/setup/linux_setup.html"><img class="flex-item-apple" src="img/linux.svg"></a><p class="section.linux-section">Click on the linux logo(little penguin) to see a bash script you can use to set up your miner in 1 line of code. Versions made for all types of linux.</p>
+    </section>
+    <section class="community-pool-section">
+        <a class="flex-container" href="/about/about_pool.html"><img class="flex-item-community-pool" src="img/pools.svg"></a><p class="section.community-pool-section"> This pool's software was provided with much appreciation to Hansen33 and Marcel. Two incredibly smart tech savvy cats and all credit is due to them. Although we use the same software, by supporting smaller mining pools we further strengthen the decentralization of the community. For more information on fee's and how this pool works/is ran please click on the Community Pools logo above!  </p>
+    </section>
+    </div>
+    <div class="flex-item"></div>
+    <div class="flex-item"></div>
+    <div class="flex-item"></div>
+  </div>
+  <div class="flex-container">
+    <div class="flex-item">5</div></section>
+    <div class="flex-item">7</div>
+    <div class="flex-item">8</div></p>
+  </div>
+  <div class="flex-container">
+    <div class="flex-item">9</div>
+    <div class="flex-item">10</div>
+    <div class="flex-item">11</div>
+    <div class="flex-item">12</div></section>
+  </div>
+</body>
+<footer id="flex-container-footer">
+    <div class="flex-item flex-item-grow">
+        <p> Thank you all for your time checking out our site. We look forward to the contribution of our node(s) in order to help decentralize the network! </p>
+    <ul>There are a few things that you should know, although they are explained in detail if you click the above links, I think having them in clear sight is the most honest way of showcasing them.
+        <ul> The fees for this pool are 4% Total, 2% goes to the Developers and 2% goes to us for running this service. </ul>
+            <ul> This can be subject to change but it will be very much so known and we will give everyone at least a 2 week notice before any changes occur. <b>IF</b> we were to change them it would strictly be a for a charity event in which whatever amount we raised the fees was donated to charity. There will be absoluitely no other changes that would take even ever.</b></ul>
+        <ul> Payouts occur automatically due to the incredible development work that the Dero Community Pools has provided.</ul>
+        <ul> Every 4800 blockls <b><u>AS LONG AS A SINGLE MINI-BLOCK</u></b> has been found then you will be paid out according to how much hash power you've contributed and how long you contributed for.</ul> 
+             <ul> This means that whether you find a Mini Block yourself or not, so long as you've contributed at all then you will get paid!</ul>
+            </ull></ul><li></li>
+    </ul>
+    </div>
+</footer>
+</html>"flex-item-dero-text flex-item-dero"
+
+
+
+<!--   for later use
+  <img src="/img/32px_dero_green.png" alt="" /><img src="/img/32px_dero_green.png" alt="" /><img src="/img/32px_dero_green.png" alt="" />
+-->

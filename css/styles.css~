@@ -1,0 +1,53 @@
+.flex-container1 {
+    text-align: center;
+}
+
+.flex-container {
+    margin: 0 auto;
+    padding: 25px;
+  }
+
+.droid-section,
+.apple-section,
+.windows-section,
+.pi-section,
+.linux-section,
+.pool-section,
+.dero-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: baseline;
+    padding: -3%;
+    text-align: center;
+  }
+
+
+.flex-item-dero,
+.flex-item-droid,
+.flex-item-apple,
+.flex-item-windows,         
+.flex-item-pi,
+.flex-item-linux,
+.flex-item-pool{
+    padding: 0px;
+    width: flex;
+    margin: 2px;
+    height: 100px;
+    width: 100px;
+    line-height: center;
+    text-align: center;
+    color: black;
+    align-self: center;
+  }
+
+  .flex-item {
+    padding: 15px;
+    width: 100px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    line-height: center;
+    text-align: center;
+    color: white;
+  }
